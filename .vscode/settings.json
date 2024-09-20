@@ -2,5 +2,10 @@
   "eslint.validate": [
     "json"
   ],
-  "cSpell.language": "en,es-ES"
+  "cSpell.language": "en,es-ES",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1A2F41",
+    "titleBar.activeBackground": "#24425B",
+    "titleBar.activeForeground": "#FBFCFD"
+  }
 }
